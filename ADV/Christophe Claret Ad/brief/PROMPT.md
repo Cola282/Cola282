@@ -1,6 +1,6 @@
 # Christophe Claret — Spec Ad Brief
 
-Status: **BRIEF, waiting for OK.** Nothing built, nothing downloaded, no credits spent.
+Status: **BRIEF v2. Approved: Concept A, French VO, watches at maximum quality.** Next step: assets list (see `ASSETS.md`), waiting for OK before downloads. Nothing built, nothing downloaded, no credits spent.
 
 ---
 
@@ -17,7 +17,7 @@ These facts change what we can show.
 | New philosophy: **"The Science of Motion"**. Complications that move, surprise, tell a story | Fratello, Luxe Digital |
 | First new watches: **late 2027 to early 2028**. **Old models will NOT be reintroduced** | Fratello, Luxe Digital |
 | X-TREM-1 (2012): hours and minutes shown by two small steel spheres moved up sapphire tubes by magnetic force | Hautetime, Monochrome |
-| Margot (2014, ladies): a daisy on the dial. A pusher randomly removes 1 or 2 petals, like "loves me, loves me not". Won the 2015 GPHG Ladies' High-Mech prize | Search results / GPHG |
+| Margot (Baselworld 2014): first Claret ladies' complication. 12 white lacquered petals around a yellow sapphire heart. Each press of the pusher at 2 o'clock removes petals at random, sounds a chime on a cathedral gong, and shows the answer in French calligraphy at 4 o'clock ("un peu" … "pas du tout"). Won the 2015 GPHG Ladies' High-Mech prize | The Jewellery Editor, Watchonista, search results / GPHG |
 
 **What this means for the ad:**
 - No watch can be sold right now. So this is not a product ad. It is a **comeback teaser**: "this is what they did, now the next chapter starts". Past models appear as **proof of what the brand can do**, never as "buy this".
@@ -46,42 +46,43 @@ A timeline countdown from the founding to the comeback, with each year jumping t
 
 ## 2. Script (Concept A)
 
-English VO. Short, full sentences, easy to understand on a phone speaker. 39 words in total.
+**French VO.** Short, full sentences, easy to understand on a phone speaker. 41 words in total.
 
 | # | Line (as heard) | Words |
 |---|---|---|
-| 1 | Some watches tell the time. | 5 |
-| 2 | His watches perform it. | 4 |
-| 3 | Steel spheres, moved by magnets. | 5 |
-| 4 | A flower that plays: loves me, loves me not. | 8 |
-| 5 | Over a hundred calibres. Eighty world firsts. | 7 |
-| 6 | Now, the next chapter. | 4 |
-| 7 | Christophe Claret. The Science of Motion. | 6 |
+| 1 | Certaines montres donnent l'heure. | 4 |
+| 2 | Les siennes la mettent en scène. | 6 |
+| 3 | Des billes d'acier, guidées par des aimants. | 7 |
+| 4 | Une marguerite qui répond : il m'aime… un peu, beaucoup. | 9 |
+| 5 | Plus de cent calibres. Quatre-vingts premières mondiales. | 8 |
+| 6 | Aujourd'hui, un nouveau chapitre. | 4 |
+| 7 | Christophe Claret. La science du mouvement. | 6 |
 
-**Respelling sent to ElevenLabs** (French pronunciation of the name):
-- "Christophe Claret" → `Kree-STOFF Klah-RAY`
-- "calibres" → `KAL-ih-bers`
-
-Option: a **French VO** version ("Certaines montres donnent l'heure. Les siennes la jouent. …"). Tell me if you want it.
+- Line 4 uses the game that Margot really plays: its dial shows the answer in French ("un peu", "beaucoup"…).
+- On screen, the official English tagline **"The Science of Motion"** sits small under the logo. The VO says it in French.
+- **Length:** French runs about 15% longer than English, so the ad is about **20 s** instead of 18 s. If you want 18 s, I'll cut line 2 or line 6.
+- **Pronunciation:** with a native French voice, no respelling is needed. With Lauren or Jessica (English voices) speaking French, I'll check "Claret" (`Cla-rè`) and "Quatre-vingts" in the takes and respell them if needed.
 
 ---
 
-## 3. Beat sheet (≈18 s + 2 s end card, 60 fps)
+## 3. Beat sheet (≈20 s + 2 s end card, 60 fps)
 
 Timings are **targets**. After the voice is chosen, the picture gets re-timed to the real VO.
 
 | Time | VO | Picture | Motion-graphics layer (new moves) |
 |---|---|---|---|
 | 0.00–0.40 | — | Pure black. One tick. | A single hairline of light draws a vertical **sapphire tube** |
-| 0.40–1.90 | "Some watches tell the time." | A polished steel sphere rises up the tube. The type sits beside it. | **Magnetic snap type**: letters fly in and lock to the sphere's height like iron filings |
-| 1.90–3.40 | "His watches perform it." | The sphere stops, a flash, then a whip-pan into the **X-TREM-1** render | "perform" in heavy SF Pro Display Black, **field lines** curling out from it |
-| 3.40–6.00 | "Steel spheres, moved by magnets." | X-TREM-1 hero: slow 3/4 turn, macro push on the spheres | Animated **magnetic field-line overlay** follows the spheres, with a thin data tag: "X-TREM-1 · 2012" |
-| 6.00–9.00 | "A flower that plays: loves me, loves me not." | Cross-fade into **Margot**, a macro on the daisy | **Petal wipe**: the transition is a petal falling. "loves me / loves me not" flip like petals, alternating left and right |
-| 9.00–10.40 | *(no VO: music lifts)* | Fast montage of 3–4 other archive pieces (e.g. Poker / 21 Blackjack, Allegro / Soprano chiming watches) | **Calibre counter** ticks fast in the corner, grid of movement outlines |
-| 10.40–13.20 | "Over a hundred calibres. Eighty world firsts." | Exploded movement / bench macro (photoreal), Le Locle, 1989 | Counter lands on **100+**, then "80" stamps in with a hit. Thin label: "Le Locle · since 1989" |
-| 13.20–15.00 | "Now, the next chapter." | Everything falls into black. A light sweep, like a page turning | One glowing line draws the horizon. Small type: "2027" |
-| 15.00–18.00 | "Christophe Claret. The Science of Motion." | **Official logo** resolves on the dark stage with the drifting brand glow | The logo is "built" by the sphere's path; the tagline is set in kinetic type |
-| 18.00–20.00 | — | **"made by / riccardo bosso"** end card (Spotify end card v2) | Last chord rings under it |
+| 0.40–2.20 | « Certaines montres donnent l'heure. » | A polished steel sphere rises up the tube. The type sits beside it. | **Magnetic snap type**: letters fly in and lock to the sphere's height like iron filings |
+| 2.20–4.00 | « Les siennes la mettent en scène. » | The sphere stops, a flash, then a whip-pan into the **X-TREM-1** | « en scène » in heavy SF Pro Display Black, **field lines** curling out from it |
+| 4.00–6.80 | « Des billes d'acier, guidées par des aimants. » | X-TREM-1 hero: slow push, then a macro on the spheres and the inclined tourbillon | Animated **magnetic field-line overlay** follows the spheres, with a thin data tag: "X-TREM-1 · 2012" |
+| 6.80–10.40 | « Une marguerite qui répond : il m'aime… un peu, beaucoup. » | Cross-fade into **Margot**, a macro on the daisy and the answer window | **Petal wipe**: the transition is a petal falling. « un peu » / « beaucoup » appear in a calligraphic accent, then snap into SF Pro |
+| 10.40–11.80 | *(no VO: music lifts)* | Fast montage of 3–4 other archive pieces (e.g. Poker / 21 Blackjack, Allegro / Soprano chiming watches) | **Calibre counter** ticks fast in the corner, grid of movement outlines |
+| 11.80–15.00 | « Plus de cent calibres. Quatre-vingts premières mondiales. » | Movement / bench macro (photoreal), Le Locle, 1989 | Counter lands on **100+**, then "80" stamps in with a hit. Thin label: "Le Locle · depuis 1989" |
+| 15.00–16.80 | « Aujourd'hui, un nouveau chapitre. » | Everything falls into black. A light sweep, like a page turning | One glowing line draws the horizon. Small type: "2027" |
+| 16.80–19.80 | « Christophe Claret. La science du mouvement. » | **Official logo** resolves on the dark stage with the drifting brand glow | The logo is "built" by the sphere's path. "La science du mouvement" in kinetic type, "The Science of Motion" small underneath |
+| 19.80–21.80 | — | **"made by / riccardo bosso"** end card (Spotify end card v2) | Last chord rings under it |
+
+**Watch quality (your request):** the watches are the stars. Only **official Claret images at the highest resolution available**, never upscaled past what holds up. Every shot gets the Apple-like treatment: clean cut-out on the dark stage, a soft reflection, a slow parallax push in 2.5D, light sweeps that travel across the crystal and metal, and heavy motion blur on moves. If an image is too small for a full-screen macro, it gets used wider rather than blown up. I will **not** generate fake "Claret-style" watches with AI. It would be a false product for a real brand, and it breaks the "real renders only" rule.
 
 **Look:** SF Pro Display, dark stage, a soft drifting **warm steel / champagne glow** (Claret = steel, gold, deep black), Apple-like finish, heavy motion blur on every move.
 **Formats:** 1920×1080 and 1080×1920 at 60 fps. In 9:16 the type stacks vertically and the product stays in the centre safe area.
@@ -91,10 +92,11 @@ Timings are **targets**. After the voice is chosen, the picture gets re-timed to
 
 ## 4. Voice
 
-- **ElevenLabs.** Candidates: **Lauren** (calm, premium) or **Jessica** (warmer, younger). **Siren** may be too dramatic for haute horlogerie. My recommendation is to try Lauren first.
-- At step 3: **2 takes in one call**, with the brand name respelled.
-- **Credit estimate:** the script is about 230 characters with respellings. 2 takes ≈ **~460 characters**, so roughly 460–500 credits on a standard model. A second voice for comparison would double that (~1,000).
-- Delivery: slow, confident, slight smile on "loves me, loves me not", a short pause before "Now".
+- **ElevenLabs, multilingual model, in French.**
+- Candidates: **Lauren** or **Jessica** speaking French (risk of an English accent), or a **native French voice** from the ElevenLabs library. My recommendation: at step 3 I list 2–3 native French voices plus Lauren, and you choose.
+- At step 3: **2 takes in one call** per voice.
+- **Credit estimate:** the French script is about 290 characters. 2 takes ≈ **~580 credits** per voice. Comparing 2 voices ≈ **~1,200**.
+- Delivery: slow, confident, a little smile on « il m'aime… un peu, beaucoup », a short pause before « Aujourd'hui ».
 
 ---
 
@@ -102,10 +104,10 @@ Timings are **targets**. After the voice is chosen, the picture gets re-timed to
 
 - **Idea:** a minute repeater (the chiming complication the brand is known for) turned into music. Two "hammer" tones (low and high, like hours and quarters) set the rhythm, with a soft ticking pulse at about 96 BPM.
 - **Arrangement around the voice:**
-  - 0–9 s: ticking pulse and sparse bell tones, a low pad. **At least 15 dB under the VO** whenever a word is spoken (side-chain duck from the VO).
-  - 9.0–10.4 s (no VO): the music opens up. Bells cascade and a sub swell comes in.
-  - 13.2 s: everything drops out except one sustained tone ("the next chapter").
-  - 15 s: the logo lands on a full **chime chord** (D major, resolving from D minor). It **rings out under the end card**.
+  - 0–10.4 s: ticking pulse and sparse bell tones, a low pad. **At least 15 dB under the VO** whenever a word is spoken (side-chain duck from the VO).
+  - 10.4–11.8 s (no VO): the music opens up. Bells cascade and a sub swell comes in.
+  - 15.0 s: everything drops out except one sustained tone (« un nouveau chapitre »).
+  - 16.8 s: the logo lands on a full **chime chord** (D major, resolving from D minor). It **rings out under the end card**.
 - No limiter squashing the voice. The VO stays on top through level, not compression.
 
 ---
@@ -118,16 +120,16 @@ Source: `/Volumes/Extreme Pro/EDITING PACK/FOUR Editors Sound Effects`.
 |---|---|---|
 | 0.00 | First tick | tick / click (dry, close) |
 | 0.40 | Sphere rises | soft riser / metal slide |
-| 0.40, 1.90, 3.40, 6.00, 10.40, 13.20, 15.00 | Into every line / title | **whoosh** (vary them, never the same one twice in a row) |
-| each type landing | Text locks | **hit** (small for words, big for "perform", "80", logo) |
-| 1.90 | Whip-pan into X-TREM-1 | whip whoosh + metallic impact |
-| 3.40–6.00 | Field lines / spheres moving | magnetic hum / electric texture (low, EQ'd) |
-| 6.00–9.00 | Each petal falling | light swish / paper-cloth flick |
-| 9.00–10.40 | Montage cuts | quick whooshes + clicks on each cut |
-| 10.40–13.20 | Counter ticking / "80" stamp | digital ticks + **stamp hit** |
-| 13.20 | Drop to black | reverse whoosh into silence |
-| 15.00 | Logo build | riser → **big hit** + shimmer |
-| 18.00 | End card | whoosh + soft hit |
+| 0.40, 2.20, 4.00, 6.80, 11.80, 15.00, 16.80 | Into every line / title | **whoosh** (vary them, never the same one twice in a row) |
+| each type landing | Text locks | **hit** (small for words, big for « en scène », "80", logo) |
+| 2.20 | Whip-pan into X-TREM-1 | whip whoosh + metallic impact |
+| 4.00–6.80 | Field lines / spheres moving | magnetic hum / electric texture (low, EQ'd) |
+| 6.80–10.40 | Each petal falling | light swish / paper-cloth flick |
+| 10.40–11.80 | Montage cuts | quick whooshes + clicks on each cut |
+| 11.80–15.00 | Counter ticking / "80" stamp | digital ticks + **stamp hit** |
+| 15.00 | Drop to black | reverse whoosh into silence |
+| 16.80 | Logo build | riser → **big hit** + shimmer |
+| 19.80 | End card | whoosh + soft hit |
 
 All of them placed and EQ'd (high-passed under the VO, notched around 2–4 kHz while words are spoken), never removed.
 **Master:** -14 LUFS integrated / -1 dBTP.
@@ -162,14 +164,13 @@ Every source and licence will be logged in `assets_in/CREDITS.md`.
 
 ---
 
-## 9. Open questions for you
+## 9. Decisions
 
-1. **Concept:** A (recommended), B or C?
-2. **VO language:** English (as written) or French?
-3. **Voice:** Lauren first, or both Lauren and Jessica (~2× credits)?
-4. **Official images:** do you have access to Claret press images or the logo? Otherwise I'll look for official press-release sources and show you the list before downloading.
-5. **Environment:** this session runs in the cloud. I can't reach your SSD (SFX), the end card project or Resolve. To build, either upload the SFX folder and the end card to the repo, or we do the build step on your Mac.
-6. **Avoid list:** anything you don't want? What were the main moves in the last ad, so I don't repeat them?
+- ✔ Concept A
+- ✔ French VO
+- ✔ Watches at maximum quality, official images only
+- Open: 20 s (French) or cut down to 18 s? Default: 20 s.
+- Open: things to avoid / moves used in the last ad.
 
 ---
 
@@ -179,3 +180,5 @@ Every source and licence will be logged in `assets_in/CREDITS.md`.
 - [Hautetime: X-TREM-1 vs Allegro](https://www.hautetime.com/?p=64433)
 - [Monochrome Watches: Christophe Claret collection](https://monochrome-watches.com/weekly-watch-photo-christophe-claret-collection/)
 - [Watchprosite: Baselworld 2015, Allegro & X-TREM-1](https://www.watchprosite.com/digest/christophe-claret-baselworld-2015-allegro-x-trem-1-overview/)
+- [The Jewellery Editor: Margot](https://thejewelleryeditor.com/watches/article/christophe-claret-margot-flower-watch)
+- [Watchonista: Margot, Baselworld 2014](https://www.watchonista.com/node/354349)
