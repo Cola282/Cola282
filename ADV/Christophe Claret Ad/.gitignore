@@ -1,0 +1,4 @@
+# regenerable build outputs (see README / build scripts)
+build/img/
+build/audio_out/
+vo/*.wav
